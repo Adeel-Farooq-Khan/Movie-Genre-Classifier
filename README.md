@@ -37,7 +37,7 @@ The Multinomial Naive Bayes model was selected for this project as it performs w
   - The model performs well on genres like "Drama" and "Thriller".
   - Some misclassifications exist between similar genres like "Action" and "Thriller".
 
-Confusion Matrix](![download](https://github.com/user-attachments/assets/aa7e8598-f9a5-4d2c-886d-cae1a8179914)
+Confusion Matrix(![download](https://github.com/user-attachments/assets/aa7e8598-f9a5-4d2c-886d-cae1a8179914)
 
 ## Installation
 
